@@ -1,1 +1,1 @@
-# kavia-gallery-app
+# Kavia Gallery App
